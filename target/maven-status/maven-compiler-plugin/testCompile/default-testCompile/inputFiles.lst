@@ -1,0 +1,9 @@
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/entities/RoleTests.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/entities/MovieTests.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/tests/TokenUtil.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/controllers/ReviewResourceIT.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/controllers/MovieControllerIT.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/entities/UserTests.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/controllers/GenreControllerIT.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/entities/ReviewTests.java
+/home/uroot/MovieFlix/backend/src/test/java/com/devsuperior/movieflix/entities/GenreTests.java

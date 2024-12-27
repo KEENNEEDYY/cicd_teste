@@ -1,0 +1,9 @@
+com/devsuperior/movieflix/entities/MovieTests.class
+com/devsuperior/movieflix/entities/GenreTests.class
+com/devsuperior/movieflix/controllers/GenreControllerIT.class
+com/devsuperior/movieflix/entities/ReviewTests.class
+com/devsuperior/movieflix/tests/TokenUtil.class
+com/devsuperior/movieflix/controllers/MovieControllerIT.class
+com/devsuperior/movieflix/entities/RoleTests.class
+com/devsuperior/movieflix/controllers/ReviewResourceIT.class
+com/devsuperior/movieflix/entities/UserTests.class
