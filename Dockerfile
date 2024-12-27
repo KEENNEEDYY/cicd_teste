@@ -1,3 +1,11 @@
+# Etapa de build
+FROM maven:3.8.5-openjdk-11 AS builder
+WORKDIR /app
+COPY pom.xml .
+COPY src ./src
+RUN mvn clean package
+
+# Etapa final
 FROM openjdk:11
 VOLUME /tmp
 EXPOSE 8080
